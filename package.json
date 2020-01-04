@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azorse/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azorse/bamazon/issues"
+  },
+  "homepage": "https://github.com/Azorse/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.1",
+    "mysql": "^2.17.1"
+  }
+}
